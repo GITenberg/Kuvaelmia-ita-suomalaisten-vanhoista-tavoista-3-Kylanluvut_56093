@@ -1,11 +1,16 @@
 _repo: Kuvaelmia-ita-suomalaisten-vanhoista-tavoista-3-Kylanluvut_56093
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Häyhä, Johannes
     gutenberg_agent_id: '48667'
     url: http://www.gutenberg.org/2009/agents/48667
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56093#Kuvaelmia-ita-suomalaisten-vanhoista-tavoista-3-Kylanluvut
 gutenberg_issued: '2017-11-30'
 gutenberg_type: Text
 identifiers:
